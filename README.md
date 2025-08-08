@@ -1,2 +1,6 @@
-# TheDOM
-In the beginning there was TheDOM. 
+# theDOM
+In the beginning there was the DOM. 
+### Things covered:
+-HTML
+-CSS
+-Javascript
